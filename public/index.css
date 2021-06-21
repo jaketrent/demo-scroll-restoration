@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #efefef;
+}
+aside {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow-y: scroll;
+  width: 200px;
+  background: #ababab;
+  font-size: 1.25rem;
+}
+li {
+  margin-bottom: 0.5rem;
+}
+main {
+  margin-left: calc(200px + 2rem);
+}

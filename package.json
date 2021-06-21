@@ -1,0 +1,14 @@
+{
+  "name": "demo-scroll-restoration",
+  "version": "1.0.0",
+  "private": true,
+  "main": "public/index.js",
+  "scripts": {
+    "start": "http-server public"
+  },
+  "author": "jaketrent",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
